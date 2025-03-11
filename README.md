@@ -13,11 +13,8 @@
 
 <hr/>
 
-![Build status](https://img.shields.io/github/workflow/status/luisbernardinello/AzureJay/CI?style=shields "Build status")
-
 ## About
 
-cuja
 AzureJay, represented by an Atlantic Bird mascot, is a conversational language learning app whose mission is to provide a efficient conversational experience for language learning through AI-powered interactions using MRKL (Modular Reasoning, Knowledge, and Language) neuro-symbolic architecture. Our platform offers a refreshing alternative to traditional language learning apps by focusing on natural conversation, precise grammar correction, contextual feedback, and adaptive learning paths tailored to each user's proficiency level and interests.
 
 Unlike conventional apps that rely solely on predefined lessons, AzureJay engages users in natural conversations while intelligently detecting errors in grammar, pronunciation, and vocabulary, providing real-time corrections and explanations. The system combines neural network models with symbolic reasoning to deliver a more effective language learning experience.
